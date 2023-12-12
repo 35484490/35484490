@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...statistics
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-上海台商子女學校
-華東台商子女學校
-大安國中
-方濟中學
-輔仁大學 統計資訊學系
-
+上海台商子女學校                                                                                         
+華東台商子女學校                                       
+大安國中                                      
+方濟中學                                          
+輔仁大學 統計資訊學系                              
+信箱：412421472@m365.fju.edu.tw                            
 
